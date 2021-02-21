@@ -1,0 +1,4 @@
+↓a↓s↓d↑a↓f↑s↑d↑f↓a↓s↓d↓f↑a↑s↑d↑f
+↓a↓s↓d↑a↓f↑s↑d↑f↓a↓s↓d↓f↑a↑s↑d↑f
+↓a↓s↓d↑a↓f↑s↑d↑f↓Key.ctrl_l↓None↑None
+↑Key.ctrl_l↓Key.ctrl_l↓None↑None
